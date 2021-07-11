@@ -6,7 +6,7 @@
       <div class="info_music">
           <h3>{{song.title}}</h3>
           <span>{{song.author}}</span>
-          <span>{{song.year}}</span>
+          <span class="mb-5">{{song.year}}</span>
       </div>
   </div>
 </template>

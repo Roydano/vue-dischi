@@ -52,11 +52,5 @@ export default {
   .offset_right_1{
         margin-right: 8.33333333%;
     }
-
-    main{
-        height: calc(100vh - 70px);
-        background-color: #1e2d3b;
-    }
-
    
 </style>
